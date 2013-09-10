@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'BRRoutingHTTPServer' target in the 'BRRoutingHTTPServer' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+#endif

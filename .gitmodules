@@ -1,0 +1,4 @@
+[submodule "RoutingHTTPServer"]
+	path = RoutingHTTPServer
+	url = git://github.com/mattstevens/RoutingHTTPServer.git
+	branch = master
