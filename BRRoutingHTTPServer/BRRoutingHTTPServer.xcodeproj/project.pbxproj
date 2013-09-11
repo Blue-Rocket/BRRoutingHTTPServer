@@ -22,7 +22,6 @@
 
 /* Begin PBXBuildFile section */
 		C9207EEC17DEE2A40037BED5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C9207EEB17DEE2A40037BED5 /* Foundation.framework */; };
-		C9207EF117DEE2A40037BED5 /* BRRoutingHTTPServer.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = C9207EF017DEE2A40037BED5 /* BRRoutingHTTPServer.h */; };
 		C920800617DEE35D0037BED5 /* DDData.m in Sources */ = {isa = PBXBuildFile; fileRef = C9207EFF17DEE35C0037BED5 /* DDData.m */; };
 		C920800717DEE35D0037BED5 /* DDNumber.m in Sources */ = {isa = PBXBuildFile; fileRef = C9207F0117DEE35C0037BED5 /* DDNumber.m */; };
 		C920800817DEE35D0037BED5 /* DDRange.m in Sources */ = {isa = PBXBuildFile; fileRef = C9207F0317DEE35C0037BED5 /* DDRange.m */; };
@@ -61,7 +60,6 @@
 			dstPath = "include/${PRODUCT_NAME}";
 			dstSubfolderSpec = 16;
 			files = (
-				C9207EF117DEE2A40037BED5 /* BRRoutingHTTPServer.h in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -71,7 +69,6 @@
 		C9207EE817DEE2A40037BED5 /* libBRRoutingHTTPServer.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libBRRoutingHTTPServer.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9207EEB17DEE2A40037BED5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		C9207EEF17DEE2A40037BED5 /* BRRoutingHTTPServer-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BRRoutingHTTPServer-Prefix.pch"; sourceTree = "<group>"; };
-		C9207EF017DEE2A40037BED5 /* BRRoutingHTTPServer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BRRoutingHTTPServer.h; sourceTree = "<group>"; };
 		C9207EFE17DEE35C0037BED5 /* DDData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDData.h; sourceTree = "<group>"; };
 		C9207EFF17DEE35C0037BED5 /* DDData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDData.m; sourceTree = "<group>"; };
 		C9207F0017DEE35C0037BED5 /* DDNumber.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDNumber.h; sourceTree = "<group>"; };
@@ -177,7 +174,6 @@
 		C9207EED17DEE2A40037BED5 /* BRRoutingHTTPServer */ = {
 			isa = PBXGroup;
 			children = (
-				C9207EF017DEE2A40037BED5 /* BRRoutingHTTPServer.h */,
 				C9207EF917DEE35C0037BED5 /* CocoaHTTPServer */,
 				C920806517DEE3980037BED5 /* RoutingHTTPServer */,
 				C9207EEE17DEE2A40037BED5 /* Supporting Files */,
