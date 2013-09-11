@@ -2,3 +2,7 @@
 	path = RoutingHTTPServer
 	url = git://github.com/mattstevens/RoutingHTTPServer.git
 	branch = master
+[submodule "AFNetworking"]
+	path = AFNetworking
+	url = git@github.com:AFNetworking/AFNetworking.git
+	branch = master
