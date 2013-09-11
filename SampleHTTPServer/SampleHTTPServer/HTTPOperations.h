@@ -5,7 +5,7 @@
 //  Client API for remote application access.
 //
 //  Created by Matt on 9/11/13.
-//  Copyright (c) 2013 Blue Rocket, Inc. All rights reserved.
+//  Copyright (c) 2013 Blue Rocket, Inc. Distributable under the terms of the Apache License, Version 2.0.
 //
 
 #import <Foundation/Foundation.h>
