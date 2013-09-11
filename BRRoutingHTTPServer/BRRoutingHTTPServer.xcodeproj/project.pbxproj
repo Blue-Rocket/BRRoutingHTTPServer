@@ -454,7 +454,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				HEADER_SEARCH_PATHS = "\"$(SDKROOT)/usr/include/libxml2\"";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				USER_HEADER_SEARCH_PATHS = "\"$(PROJECT_DIR)/../lib/BRCocoaLumberjack.framework/Headers\"";
@@ -479,7 +479,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				HEADER_SEARCH_PATHS = "\"$(SDKROOT)/usr/include/libxml2\"";
-				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				SDKROOT = iphoneos;
 				USER_HEADER_SEARCH_PATHS = "\"$(PROJECT_DIR)/../lib/BRCocoaLumberjack.framework/Headers\"";
 				VALIDATE_PRODUCT = YES;
@@ -551,6 +551,7 @@
 				C9207EF817DEE2A40037BED5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C920807D17DEE69C0037BED5 /* Build configuration list for PBXAggregateTarget "BRRoutingHTTPServer.framework" */ = {
 			isa = XCConfigurationList;
@@ -559,6 +560,7 @@
 				C920807F17DEE69C0037BED5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
